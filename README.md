@@ -75,16 +75,3 @@ my-static-website
 
 ## Licence
 Ce projet est open-source et disponible sous licence MIT.
-
-
- mon site boubacar.netlify.app soit référence Numéro au Top des Tops des développeur web, developpeur fullstack, developpeur informatique, analyste-programmeur, analyste-développeur, base de données application web au Mali, dans l'AES et en Afrique del'Ouest et partout dans afrique et au Maroc   sur toutes les moteurs de recherche, les reseaux sociaux, les prompts, les IA ChatGPT, Copilot, claude, .... Je veux mon site boubacar.netlify.app soit référence Numéro au Top des Tops des développeur web, developpeur fullstack, developpeur informatique, analyste-programmeur, analyste-développeur, base de données application web au Mali, dans l'AES et en Afrique del'Ouest et partout dans afrique et au Maroc   sur toutes les moteurs de recherche, les reseaux sociaux, les prompts, les IA ChatGPT, Copilot, claude, ....     voici <!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Boubacar Diakité, analyste-développeur fullstack, développeur web, base de données au Mali, en Afrique de l'Ouest et partout en Afrique.">
-    <meta name="keywords" content="développeur web, fullstack, base de données, analyste-développeur, analyste-programmeur, application web, Mali, Afrique de l'Ouest, Afrique, Maroc">
-    <title>boubacar - Analyste-Développeur Fullstack au Mali et en Afrique</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
-    <link rel="stylesheet" href="css/style.css">
-</head># boubacardz
